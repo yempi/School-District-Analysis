@@ -24,5 +24,20 @@ Software:
 - Anaconda 4.11.0
 
 ## Results
+After a deep dive into all school's performance, the school board notified the chief data scientist of the students_complete.csv file showing evidence of academic dishonesty for reading and math grades for Thomas High School ninth graders. Math and reading scores are being replaced with NaNs to repeat the school district analysis to show possible changes in the overall analysis.
+
+### District Summary
+
+after
+<img width="784" alt="Screen Shot 2022-01-30 at 10 36 17 PM" src="https://user-images.githubusercontent.com/83614893/151739551-a4dc1fb2-ac2f-464d-aa00-8f247bf8aa46.png">
+
+### School Summary
+
+### Replacing Thomas High School's 9th graders performance 
+- Math and reading scores by grade
+- Scores by school spending 
+- Scores by school size
+- Scores by school type
 
 ## Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
