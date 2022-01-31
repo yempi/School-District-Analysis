@@ -63,7 +63,9 @@ After replacing this numbers with a NaN value:
 <img width="760" alt="SchoolSize_a" src="https://user-images.githubusercontent.com/83614893/151741855-0e109622-c1f9-4d28-bceb-83404e4d75bb.png">
 
 #### Scores by school type
+<img width="710" alt="SchoolType_b" src="https://user-images.githubusercontent.com/83614893/151742149-c891c72d-6d71-43a7-8b39-40d15ca5a81b.png">
 
+<img width="714" alt="SchoolType_a" src="https://user-images.githubusercontent.com/83614893/151742158-7d9dd563-e2bb-4c02-b447-2fa0d132fb45.png">
 
 
 ## Summary
