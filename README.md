@@ -14,6 +14,14 @@ The chief data scientist of a school district wants help analyzing student's and
 
 
 ## Resources
+Data source: 
+- schools_complete.csv
+- students_complete.csv
+
+Software:
+- Jupyter Notebook
+- Python 3.7.6
+- Anaconda 4.11.0
 
 ## Results
 
