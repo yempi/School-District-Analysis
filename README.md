@@ -34,15 +34,19 @@ After replacing this numbers with a NaN value:
 
 - Average math and reading scores remain the same.
 - The percentage of students passing math and reading drop 0.1%.
-- Overall passing percentage drop 0.3%.
+- Overall passing percentage drops 0.3%.
 
 ### School Summary
-before
-<img width="781" alt="before" src="https://user-images.githubusercontent.com/83614893/151740339-15204676-4bf3-4f44-9b43-3424b0f60746.png">
-
-after
+This are the numbers from taking into account all grades of Thomas High School's ninth graders:
 <img width="782" alt="after" src="https://user-images.githubusercontent.com/83614893/151740349-bfc39779-b20f-468c-ab24-54a2282c327a.png">
 
+After replacing this numbers with a NaN value:
+<img width="781" alt="before" src="https://user-images.githubusercontent.com/83614893/151740339-15204676-4bf3-4f44-9b43-3424b0f60746.png">
+
+- Average math and reading scores drop by 0.1%.
+- The percentage of students passing math drops by 0.1%.
+- The percentage of students passing reading drops by 0.2%
+- Overall passing percentage drop 0.3%.
 
 ### Replacing Thomas High School's 9th graders performance 
 - Math and reading scores by grade
