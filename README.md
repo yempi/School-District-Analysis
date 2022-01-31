@@ -12,7 +12,6 @@ The chief data scientist of a school district wants help analyzing student's and
   - School size
   - Type of school 
 
-
 ## Resources
 Data source: 
 - schools_complete.csv
@@ -27,11 +26,18 @@ Software:
 After a deep dive into all school's performance, the school board notified the chief data scientist of the students_complete.csv file showing evidence of academic dishonesty for reading and math grades for Thomas High School ninth graders. Math and reading scores are being replaced with NaNs to repeat the school district analysis to show possible changes in the overall analysis.
 
 ### District Summary
+before
+<img width="785" alt="Screen Shot 2022-01-30 at 10 38 17 PM" src="https://user-images.githubusercontent.com/83614893/151739715-aa3df4d4-ce8d-44ca-8cd4-a3a8ceee20b7.png">
 
 after
 <img width="784" alt="Screen Shot 2022-01-30 at 10 36 17 PM" src="https://user-images.githubusercontent.com/83614893/151739551-a4dc1fb2-ac2f-464d-aa00-8f247bf8aa46.png">
 
 ### School Summary
+before
+<img width="785" alt="Screen Shot 2022-01-30 at 10 42 30 PM" src="https://user-images.githubusercontent.com/83614893/151740038-c7fc8c91-0507-4fba-be29-ca09a7cd1022.png">
+
+after
+<img width="786" alt="Screen Shot 2022-01-30 at 10 43 18 PM" src="https://user-images.githubusercontent.com/83614893/151740112-b54f19f9-87f0-4012-abdf-c2a33e8ee763.png">
 
 ### Replacing Thomas High School's 9th graders performance 
 - Math and reading scores by grade
