@@ -34,10 +34,11 @@ after
 
 ### School Summary
 before
-<img width="785" alt="Screen Shot 2022-01-30 at 10 42 30 PM" src="https://user-images.githubusercontent.com/83614893/151740038-c7fc8c91-0507-4fba-be29-ca09a7cd1022.png">
+<img width="781" alt="before" src="https://user-images.githubusercontent.com/83614893/151740339-15204676-4bf3-4f44-9b43-3424b0f60746.png">
 
 after
-<img width="786" alt="Screen Shot 2022-01-30 at 10 43 18 PM" src="https://user-images.githubusercontent.com/83614893/151740112-b54f19f9-87f0-4012-abdf-c2a33e8ee763.png">
+<img width="782" alt="after" src="https://user-images.githubusercontent.com/83614893/151740349-bfc39779-b20f-468c-ab24-54a2282c327a.png">
+
 
 ### Replacing Thomas High School's 9th graders performance 
 - Math and reading scores by grade
